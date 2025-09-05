@@ -1,1 +1,26 @@
+# ✅ Checklist for Project 1: Option Pricing Engine
 
+## 📂 Setup
+- [ ] Create GitHub repo → `quant-projects`
+- [ ] Make two folders: `option_pricing_engine` and `portfolio_optimization`
+
+## 📘 Core Concepts to Cover
+- [ ] Black-Scholes closed-form formula for European options  
+- [ ] Binomial Tree pricing (Cox-Ross-Rubinstein model)  
+- [ ] Monte Carlo simulation for option pricing  
+- [ ] Greeks (Delta, Gamma, Vega, Theta, Rho)  
+
+## 💻 Coding Tasks
+- [ ] Implement **Black-Scholes formula** in Python  
+- [ ] Build **Binomial Tree model** (recursive or iterative)  
+- [ ] Write **Monte Carlo simulation** for call/put pricing  
+- [ ] Add variance reduction (Antithetic variates / Control variates – optional if time)  
+- [ ] Write functions to compute **Greeks** numerically  
+- [ ] Create **plots**: option value vs stock price, volatility smile (basic)  
+
+## 📑 Deliverables
+- [ ] Python notebook with code + explanations  
+- [ ] README file with:  
+  - Problem statement  
+  - Models implemented  
+  - Key plots + sample outputs  
